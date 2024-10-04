@@ -34,5 +34,12 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a>
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Stats</h3>
-[![ShahwaizMuhammadRafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahwaizMuhammadRafiq)](https://github.com/ShahwaizMuhammadRafiq/github-readme-stats)
+<br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShahwaizMuhammadRafiq&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwaizMuhammadRafiq&layout=compact&&langs_count=8"/>
+</div>
+
