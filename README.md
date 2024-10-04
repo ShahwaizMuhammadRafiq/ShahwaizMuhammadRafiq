@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahwaiz Muhammad Rafiq</h1>
 <h3 align="center">A Passionate Software Engineering Student From Pakistan</h3>
 
-- 🔭 I’m currently working on ** Cool projects** 
+- 🔭 I’m currently working on **Cool projects** 
 - 🌱 I’m currently learning **Next.js, Express.js, and Advance Java**
 - 💬 Ask me about **React, Python, Java**
 - 📫 How to reach me: **shahwaizrafiq754@gmail.com**
