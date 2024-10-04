@@ -39,7 +39,8 @@
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShahwaizMuhammadRafiq&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwaizMuhammadRafiq&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=ShahwaizMuhammadRafiq&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwaizMuhammadRafiq&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
 
