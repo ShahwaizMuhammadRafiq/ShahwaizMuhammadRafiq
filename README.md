@@ -17,6 +17,8 @@
   
 </div>
 
+ <hr/>
+
 <h1 align="center">Connect With Me</h1>
 <p align="center">
 <div align="center"> 
@@ -35,6 +37,8 @@
 </div>
 </p>
 
+ <hr/>
+
 <h1 align="center"> Top Technologies</h1>
 
 <div align="center">
@@ -43,6 +47,18 @@
 
 </div>
 
+ <hr/>
+
+ <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h1 align="center"> My Stats ⭐</h1>
 
 <div align="center">
@@ -50,5 +66,13 @@
 <img alt="Top langs" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahwaizMuhammadRafiq&theme=vue-dark&hide_border=true"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwaizMuhammadRafiq&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+
 
 
