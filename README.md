@@ -5,10 +5,17 @@
 </h1>
 <h3 align="center">A Passionate Software Engineering Student From Pakistan</h3>
 
-- 🔭 I’m currently working on **Cool projects** 
-- 🌱 I’m currently learning **Next.js and Advance Java**
-- 💬 Ask me about **React, Python, Java**
-- 📫 How to reach me: **shahwaizrafiq754@gmail.com**
+<div align="center">
+    
+🔭 I’m currently working on **Cool projects** 
+
+🌱 I’m currently learning **Next.js and Advance Java**
+
+💬 Ask me about **React, Python, Java**
+
+📫 How to reach me: **shahwaizrafiq754@gmail.com**
+  
+</div>
 
 <h1 align="center">Connect With Me</h1>
 <p align="center">
