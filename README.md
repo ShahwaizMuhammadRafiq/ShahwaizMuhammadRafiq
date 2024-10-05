@@ -19,7 +19,7 @@
 
 # My stats ⭐
 
-<div align="center">
+<div align="center" , display="flex",flex-direction="column">
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=ShahwaizMuhammadRafiq&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 <img alt="Top langs" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahwaizMuhammadRafiq&theme=vue-dark&hide_border=true"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwaizMuhammadRafiq&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
