@@ -5,13 +5,13 @@
 
 <div align="center">
     
-🔭 I’m currently working on **Cool projects** 
+🔭 I’m currently working on **Cool projects** .
 
-🌱 I’m currently learning **Next.js and Advance Java**
+🌱 I’m currently learning **Next.js and Advance Java**.
 
-💬 Ask me about **React, Python, Java**
+💬 Ask me about **React, Python, Java**.
 
-📫 How to reach me: **shahwaizrafiq754@gmail.com**
+📫 How to reach me: **shahwaizrafiq754@gmail.com**.
   
 </div>
 
