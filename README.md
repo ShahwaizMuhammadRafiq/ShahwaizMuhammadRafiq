@@ -5,7 +5,7 @@
 
 <div align="center">
     
-🔭 I’m currently working on **Cool projects** .
+🔭 I’m currently working on **Cool projects**.
 
 🌱 I’m currently learning **Next.js and Advance Java**.
 
