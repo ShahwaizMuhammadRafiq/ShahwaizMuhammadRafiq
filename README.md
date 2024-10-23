@@ -57,7 +57,7 @@
 
 <hr/>
 
-<h1 align="center"> My Stats ⭐</h1>
+<h1 align="center"> My Stats ⭐.</h1>
 
 <div align="center">
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=ShahwaizMuhammadRafiq&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
